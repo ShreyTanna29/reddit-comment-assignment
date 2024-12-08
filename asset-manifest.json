@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reddit-comment-assignment/static/css/main.3e5df073.css",
+    "main.js": "/reddit-comment-assignment/static/js/main.aafc0aa5.js",
+    "static/js/488.e6365811.chunk.js": "/reddit-comment-assignment/static/js/488.e6365811.chunk.js",
+    "index.html": "/reddit-comment-assignment/index.html",
+    "main.3e5df073.css.map": "/reddit-comment-assignment/static/css/main.3e5df073.css.map",
+    "main.aafc0aa5.js.map": "/reddit-comment-assignment/static/js/main.aafc0aa5.js.map",
+    "488.e6365811.chunk.js.map": "/reddit-comment-assignment/static/js/488.e6365811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e5df073.css",
+    "static/js/main.aafc0aa5.js"
+  ]
+}
